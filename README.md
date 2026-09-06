@@ -5,7 +5,7 @@ Este es mi portafolio personal desarrollado con **HTML, CSS y JavaScript**, dond
 ---
 
 ## 👨‍💻 Sobre mí
-**Beckham Vieri Chañi Pauccar**  
+**Beckham Vieri**  
 Egresado de Ingeniería Estadística e Informática con experiencia en desarrollo backend usando **Java + Spring Boot** y programación de sistemas en **C++**.  
 Especializado en:
 - Microservicios
@@ -14,7 +14,6 @@ Especializado en:
 - APIs REST y GraphQL
 
 📧 beckhampauccar7@gmail.com  
-📱 +51 993 026 017  
 🔗 GitHub
 
 ---
@@ -62,7 +61,6 @@ Especializado en:
 
 ## 📬 Contacto
 📧 beckhampauccar7@gmail.com  
-📱 +51 993 026 017  
 🔗 GitHub  
 
 ---
